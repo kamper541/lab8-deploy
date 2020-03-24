@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lab8-deploy/static/css/main.04418a4e.chunk.css",
+    "main.js": "/lab8-deploy/static/js/main.78207468.chunk.js",
+    "main.js.map": "/lab8-deploy/static/js/main.78207468.chunk.js.map",
+    "runtime-main.js": "/lab8-deploy/static/js/runtime-main.55665120.js",
+    "runtime-main.js.map": "/lab8-deploy/static/js/runtime-main.55665120.js.map",
+    "static/js/2.5268e503.chunk.js": "/lab8-deploy/static/js/2.5268e503.chunk.js",
+    "static/js/2.5268e503.chunk.js.map": "/lab8-deploy/static/js/2.5268e503.chunk.js.map",
+    "index.html": "/lab8-deploy/index.html",
+    "precache-manifest.4ef9715501d4b5994b55522c53525fd2.js": "/lab8-deploy/precache-manifest.4ef9715501d4b5994b55522c53525fd2.js",
+    "service-worker.js": "/lab8-deploy/service-worker.js",
+    "static/css/main.04418a4e.chunk.css.map": "/lab8-deploy/static/css/main.04418a4e.chunk.css.map",
+    "static/js/2.5268e503.chunk.js.LICENSE.txt": "/lab8-deploy/static/js/2.5268e503.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55665120.js",
+    "static/js/2.5268e503.chunk.js",
+    "static/css/main.04418a4e.chunk.css",
+    "static/js/main.78207468.chunk.js"
+  ]
+}
